@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.tmp/
+.mass.png
+tools/print.html
+.DS_Store
