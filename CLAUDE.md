@@ -19,3 +19,7 @@ COBU is a Home & Kitchen e-commerce brand (Instagram: @cobugoods). First product
 
 ## Skills for images and video
 `.claude/settings.json` enables the HyperFrames plugin (HeyGen) for video work, including avatar/lip-sync clips via `media-use`. Remotion, Photoroom and any plugins installed on the owner's claude.ai account load automatically as well.
+
+Project skills in `.claude/skills/` (copied from their upstream repos, licenses included):
+- `design-taste-frontend` (Taste Skill, MIT, github.com/Leonxlnx/taste-skill): art direction for websites, landing pages and app screens.
+- `img2threejs` (Apache-2.0, github.com/img2threejs/img2threejs): rebuilds an object from a reference image as a 3D Three.js model; its screenshot checks need Python Playwright matching the installed Chromium.
